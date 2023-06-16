@@ -1,7 +1,7 @@
 # Responsi Senior Project - Studi Kasus 1
 
 Nama : [NAMA]  
-NIU : [NIU]  
+NIU : 456367  
 Sesi : [SESI]  
 Secret String : [SECRET_STRING]
 
